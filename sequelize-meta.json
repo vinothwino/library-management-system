@@ -1,0 +1,8 @@
+[
+  "20210325170556-create-roles.js",
+  "20210325170603-create-users.js",
+  "20210325171008-create-user-roles.js",
+  "20210325171643-create-publishers.js",
+  "20210325171926-create-books.js",
+  "20210325172758-create-user-borrowed-books.js"
+]
